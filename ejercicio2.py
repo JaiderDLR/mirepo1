@@ -3,6 +3,10 @@ suma = 0
 suma = num + suma
 print(suma)
 
-multiplicacion = 0
-multiplicacion = num * multiplicacion
-print(multiplicacion)
+multi = 0
+multi = num * multi
+print(multi)
+
+resta = 0
+resta = num - resta
+print(resta)
